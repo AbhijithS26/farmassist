@@ -1,4 +1,4 @@
-portaudio19-dev   # required to compile pyaudio
-ffmpeg            # used by SpeechRecognition / gTTS for audio handling
-libsnappy-dev     # optional – helps chromadb’s snappy compression
-liblz4-dev        # optional – helps chromadb’s lz4 compression
+portaudio19-dev
+ffmpeg
+libsnappy-dev
+liblz4-dev
