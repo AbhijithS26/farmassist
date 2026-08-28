@@ -5,6 +5,6 @@ liblz4-dev
 zlib1g-dev
 libjpeg-dev
 libtiff5-dev
-libfreetype6-dev
+libfreetype6-dev=2.13.3+dfsg-1+deb13u1
 liblcms2-dev
 libwebp-dev
