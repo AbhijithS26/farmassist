@@ -1,0 +1,2 @@
+# Placeholder — knowledge currently lives inline in farming_kb.py (KNOWLEDGE list).
+# You can migrate to loading from this file later as your dataset grows.
