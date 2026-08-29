@@ -1,5 +1,3 @@
-# govt_schemes.py
-
 import chromadb
 
 SCHEMES_CHROMA_PATH = "./chroma_db_schemes"
